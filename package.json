@@ -54,11 +54,11 @@
   },
   "peerDependencies": {
     "react": "^15.3.0",
-    "react-native": "~0.38.0",
+    "react-native": "^0.41.2",
     "react-native-svg": "^4.1.0"
   },
   "dependencies": {
-    "victory-core-native": "^4.0.0",
+    "victory-core-native": "thumblab/victory-core-native",
     "victory-pie": "^7.2.0"
   }
 }
